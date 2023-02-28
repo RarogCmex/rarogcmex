@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello there! My name is Denis Reva, I'm also known as RarogCmex. I'm working on my portfolio at this moment. I'm also looking for decent job as iOS or Linux developer.
 
 <!--
 **RarogCmex/rarogcmex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
