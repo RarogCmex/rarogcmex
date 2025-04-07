@@ -1,5 +1,7 @@
 Hello there! My name is Denis Reva, I'm also known as RarogCmex - all R's are spoken, the second part pronounces ether as Smehh or ci-em-e-iks.
+
 I had to become undergraduate student in Financial University Under the Government of Russian Federation. It's the only University's name - I assure you that I'm not associated with Russia's officials in any way.
+
 I want to become Lead Programmer so I'm working on the special project at this moment. I'm also looking for a decent part-time IT job.
 
 <!--
